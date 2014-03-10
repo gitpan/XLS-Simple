@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/XLS/Simple.pm
+xt/01.write_xls.t
+xt/02.read_xls.t
